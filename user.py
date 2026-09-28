@@ -1,4 +1,3 @@
-user.py
 
 from abc import ABC, abstractmethod
 from exception import InvalidEmailException
